@@ -92,4 +92,4 @@ This repository focuses on identifying fraudulent credit card transactions using
 - **Mitigate Bias:** Ensure balanced performance across different merchant categories, geographical locations, and transaction types.
 
 ---
-
+_**Contributors**: Saaransh Pandey, Muskaan Beriwal, Priyam Shah._
